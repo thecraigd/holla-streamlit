@@ -6,7 +6,7 @@
 
 # [Holla if ya hear me](https://holla-streamlit.herokuapp.com/) - Streamlit Edition
 
-![Holla if ya hear me logo](/static/img/holla.png)
+![Holla if ya hear me logo](./holla.png)
 
 #### Project status - Complete
 
